@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.0",
-    "download_url": "https://example.com/path-to-update/update.exe",
-    "release_notes": "Cập nhật giao diện, sửa lỗi bảo mật."
+  "version": "1.0.0.0",
+  "download_url": "https://github.com/LeDat-nef/up_ver/archive/refs/tags/1.0.0.0.zip",
+  "release_notes": "Cập nhật giao diện, sửa lỗi bảo mật."
 }
