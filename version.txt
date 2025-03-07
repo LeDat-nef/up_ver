@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0.0",
+    "download_url": "https://example.com/path-to-update/update.exe",
+    "release_notes": "Cập nhật giao diện, sửa lỗi bảo mật."
+}
